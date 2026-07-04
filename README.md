@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayushjiii/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ayushjiii/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0643-maximum-average-subarray-i](https://github.com/ayushjiii/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushjiii/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/ayushjiii/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
 | ------- |
