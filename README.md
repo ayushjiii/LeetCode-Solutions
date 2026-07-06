@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayushjiii/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/ayushjiii/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushjiii/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/ayushjiii/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushjiii/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/ayushjiii/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
